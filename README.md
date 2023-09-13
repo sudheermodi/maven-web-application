@@ -20,6 +20,8 @@ Step2) Download the Maven Software
 
 wget https://dlcdn.apache.org/maven/maven-3/3.9.3/binaries/apache-maven-3.9.3-bin.zip
 unzip apache-maven-3.9.3-bin.zip
+
+
 Step3) Set the class path/Environmental Variable
 
 For Specific User
